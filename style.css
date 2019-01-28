@@ -1,0 +1,42 @@
+body{
+    background-color: lightslategrey;
+    margin: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    padding: 20px;
+    border-radius: 3px;
+    background-color: lightcoral;
+    margin-bottom: 5px;
+}
+
+form, main{
+    padding: 20px;
+    margin-bottom: 0px;
+    border-radius: 3px 3px 0px 0px;
+    background-color: white;
+}
+
+input{
+    margin-left: 10px;
+}
+
+footer{
+    margin-top: 0px;
+    padding: 20px;
+    border-top: solid 1px darkgray;
+    border-radius: 0px 0px 3px 3px;
+    background-color: lightgreen;
+}
+
+footer h2{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+footer p{
+    padding-top: 5px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
